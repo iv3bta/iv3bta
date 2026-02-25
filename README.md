@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project named HealtBite.<br>⚡ Fun fact: Your brain is constantly eating itself.<br>👨‍💻 Most of my projects are available on this account.<br>🌱 I’m currently learning: Java
+🔭 I’m currently not working on any projects.<br>👨‍💻 Most of my projects are available on this account.<br>🌱 I’m currently learning: Java
 
 
 ## 🌐 Socials:
