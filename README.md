@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently not working on any projects.<br>👨‍💻 Most of my projects are available on this account.<br>🌱 I’m currently learning: Java 
 
 # 💻 Tech Stack:
