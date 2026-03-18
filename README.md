@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iventa Rares</h1>
 <h3 align="center">A passionate student from Romania</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iv3bta" alt="iv3bta" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **rares.iventa@gmail.com**
