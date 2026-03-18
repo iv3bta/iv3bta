@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iventa Rares</h1>
 <h3 align="center">A passionate student from Romania</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iv3bta&label=Profile%20views&color=0e75b6&style=flat" alt="iv3bta" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iv3bta" alt="iv3bta" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iv3bta&show_icons=true&locale=en" alt="iv3bta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iv3bta&" alt="iv3bta" /></p>
+
