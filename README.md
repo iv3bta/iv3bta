@@ -10,7 +10,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iv3bta&show_icons=true&locale=en&layout=compact" alt="iv3bta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iv3bta&show_icons=true&locale=en" alt="iv3bta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iv3bta&" alt="iv3bta" /></p>
-
