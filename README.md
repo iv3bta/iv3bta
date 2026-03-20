@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iventa Rares</h1>
 <h3 align="center">A passionate student from Romania</h3>
 
-- 🌱 I’m currently learning **Java** and working on a game called "Echos of the Grand Line"
+- 🌱 I’m currently learning **Java** and working on a game called **Echos of the Grand Line**
 - 📫 How to reach me **rares.iventa@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
