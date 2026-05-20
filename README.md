@@ -22,8 +22,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">📊 My GitHub Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iv3bta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iv3bta" />
-</p>
