@@ -58,7 +58,3 @@ A 2D platformer built from scratch in Java — no game engine, no framework.
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iv3bta&show_icons=true&hide_border=true&theme=graywhite&hide_title=true" alt="GitHub stats" height="150"/>
-</p>
